@@ -54,3 +54,5 @@ test_*.py
 test.csv
 vacation.csv
 .python-version
+uv.lock
+CLAUDE.md

@@ -117,7 +117,17 @@ class CalendarSVGGenerator:
             '#f5deb3',  # ウィート
             '#ffe4b5',  # モカシン
             '#dda0dd',  # プラム
-            '#98fb98'   # ペールグリーン
+            '#98fb98',  # ペールグリーン
+            '#ffd0d0',  # ライトサーモン
+            '#d0e7ff',  # ライトコーンフラワー
+            '#d0ffd0',  # ライトセージ
+            '#fff0d0',  # ライトベージュ
+            '#ffd0f0',  # ライトマゼンタ
+            '#f0d0ff',  # ライトオーキッド
+            '#d0fff0',  # ライトアクアマリン
+            '#fff0f0',  # ライトミスティローズ
+            '#f0fff0',  # ライトミントクリーム
+            '#ffded0'   # ライトピーチ
         ]
         
         for i, member in enumerate(members):
