@@ -1,3 +1,5 @@
+**使いかた**
+
 このスプシをCSVで出力してvacation.csvという名前で保存し、calender_with_events.pyと同じディレクトリに置いてください。
 https://docs.google.com/spreadsheets/d/1g2mrNUVx5AEGqhbwH6J2vrQ61QxDaniuRznbTvH1x_U/edit?usp=sharing
 
